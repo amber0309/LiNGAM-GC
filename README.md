@@ -11,7 +11,6 @@ Chen, Zhitang, and Laiwan Chan
 - numpy
 - scipy
 - sklearn
-- copy
 
 We test the code using python 3.6.8 on Windows 10. Any later version should still work perfectly.
 
