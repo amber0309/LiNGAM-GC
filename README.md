@@ -36,7 +36,7 @@ Detailed instructions on the usage is given in *lingamgc.py*
 
 ## Author
 
-- **Shoubo Hu** - shoubo [dot] sub [at] gmail [dot] com
+- **Shoubo Hu** - shoubo.sub [at] gmail.com
 
 See also the list of [contributors](https://github.com/amber0309/LiNGAM-GC/graphs/contributors) who participated in this project.
 
